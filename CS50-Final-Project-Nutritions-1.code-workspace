@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+urban-yodel-wr97j7q46jqvhj7x/home/ubuntu/CS50-Final-Project-Nutritions-1"
+		}
+	],
+	"remoteAuthority": "codespaces+urban-yodel-wr97j7q46jqvhj7x",
+	"settings": {
+		"gitdoc.enabled": true
+	}
+}
